@@ -1,0 +1,15 @@
+C:\IT\C#\HomeWorks TSEN\DZ3\bin\Debug\net6.0\DZ3.exe
+C:\IT\C#\HomeWorks TSEN\DZ3\bin\Debug\net6.0\DZ3.deps.json
+C:\IT\C#\HomeWorks TSEN\DZ3\bin\Debug\net6.0\DZ3.runtimeconfig.json
+C:\IT\C#\HomeWorks TSEN\DZ3\bin\Debug\net6.0\DZ3.dll
+C:\IT\C#\HomeWorks TSEN\DZ3\bin\Debug\net6.0\DZ3.pdb
+C:\IT\C#\HomeWorks TSEN\DZ3\obj\Debug\net6.0\DZ3.csproj.AssemblyReference.cache
+C:\IT\C#\HomeWorks TSEN\DZ3\obj\Debug\net6.0\DZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT\C#\HomeWorks TSEN\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfoInputs.cache
+C:\IT\C#\HomeWorks TSEN\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfo.cs
+C:\IT\C#\HomeWorks TSEN\DZ3\obj\Debug\net6.0\DZ3.csproj.CoreCompileInputs.cache
+C:\IT\C#\HomeWorks TSEN\DZ3\obj\Debug\net6.0\DZ3.dll
+C:\IT\C#\HomeWorks TSEN\DZ3\obj\Debug\net6.0\refint\DZ3.dll
+C:\IT\C#\HomeWorks TSEN\DZ3\obj\Debug\net6.0\DZ3.pdb
+C:\IT\C#\HomeWorks TSEN\DZ3\obj\Debug\net6.0\DZ3.genruntimeconfig.cache
+C:\IT\C#\HomeWorks TSEN\DZ3\obj\Debug\net6.0\ref\DZ3.dll
