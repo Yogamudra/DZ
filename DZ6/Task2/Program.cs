@@ -13,14 +13,15 @@ double k2 = double.Parse(Console.ReadLine());
 double x = (b2 - b1) / (k1 - k2);
 double y = k1 * x + b1;
 if (k1 == k2)
-{
+    {
     Console.WriteLine(" Straight lines are parallel");
-}
-if (b1 == b2 && k1 == k2)
-{
+    }
+else 
+    if (b1 == b2 && k1 == k2)
+    {
     Console.WriteLine(" Direct match");
-}
+    }
 else
-{
+    {
     Console.WriteLine($"Points of intersection of two lines ({Math.Round(x, 2)}, {Math.Round(y, 2)})");
-}
+    }
