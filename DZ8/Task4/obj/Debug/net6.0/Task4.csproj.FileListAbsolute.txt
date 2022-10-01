@@ -1,0 +1,15 @@
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\bin\Debug\net6.0\Task4.exe
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\bin\Debug\net6.0\Task4.deps.json
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\bin\Debug\net6.0\Task4.dll
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\bin\Debug\net6.0\Task4.pdb
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\obj\Debug\net6.0\Task4.dll
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\obj\Debug\net6.0\refint\Task4.dll
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\obj\Debug\net6.0\Task4.pdb
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+C:\IT\C#\HomeWorks TSEN\DZ8\Task4\obj\Debug\net6.0\ref\Task4.dll
